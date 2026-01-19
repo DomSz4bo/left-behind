@@ -76,3 +76,6 @@ DerivedDataCache/*
 
 # Developer files
 Content/Developers/*
+
+# Local assets
+Content/Assets/*
