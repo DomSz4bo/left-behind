@@ -43,11 +43,11 @@ On the path to the rocket, environments are filled with obstacles and traps that
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><img src="images/obstacles.gif" width="500"></td>
-    <td><img src="images/platforms.jpg" width="500"></td>
+    <td><img alt="Obstacles showcase" src="images/obstacles.gif" width="500"></td>
+    <td><img alt="Platforming room" src="images/platforms.jpg" width="500"></td>
   </tr>
   <tr>
-    <td><img src="images/story.jpg" width="500"></td>
-    <td><img src="images/combat.gif" width="500"></td>
+    <td><img alt="Dialog window" src="images/story.jpg" width="500"></td>
+    <td><img alt="Combat sequence" src="images/combat.gif" width="500"></td>
   </tr>
 </table>

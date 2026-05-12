@@ -43,11 +43,11 @@ Po ceste k rakete budú priestory plné prekážok a pascí, ktoré hráč musí
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><img src="images/obstacles.gif" width="500"></td>
-    <td><img src="images/platforms.jpg" width="500"></td>
+    <td><img alt="Ukážka prekážok" src="images/obstacles.gif" width="500"></td>
+    <td><img alt="Miestnosť s platformami" src="images/platforms.jpg" width="500"></td>
   </tr>
   <tr>
-    <td><img src="images/story.jpg" width="500"></td>
-    <td><img src="images/combat.gif" width="500"></td>
+    <td><img alt="Dialógový systém" src="images/story.jpg" width="500"></td>
+    <td><img alt="Súboj proti dronom" src="images/combat.gif" width="500"></td>
   </tr>
 </table>
